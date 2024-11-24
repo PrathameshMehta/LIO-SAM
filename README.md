@@ -1,6 +1,3 @@
-README Content
-
-Save this as README.md:
 
 # LIO-SAM
 
